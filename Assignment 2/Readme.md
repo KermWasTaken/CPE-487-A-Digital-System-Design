@@ -20,7 +20,7 @@ I chose an Arithmetic Logic Unit (ALU) for Assignment 2 which takes in two 1 byt
 
 ## GTKWave Testbench Picture
 
-! [Testbench Results] (\testbenchResults.png)
+! [Testbench Results] (/testbenchResults.png)
 
 ## Citation
 
