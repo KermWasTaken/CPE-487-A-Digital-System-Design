@@ -10,7 +10,7 @@
 6. Create a README.md to include the screen shot
  
 
-Program Outcome 2: (Design)
+***Program Outcome 2: (Design)***
 
 2.5 The student will be able to write test vectors for a digital system and develop a VHDL test-bench to apply these vectors using file based input/output operations.
 
