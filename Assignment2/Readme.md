@@ -24,4 +24,4 @@ I chose an Arithmetic Logic Unit (ALU) for Assignment 2 which takes in two 1 byt
 
 ## Citation
 
-The source code as well as the testbench can be found [here](https://allaboutfpga.com/vhdl-code-for-4-bit-alu/)
+The source code for the model as well as the testbench can be found [here](https://allaboutfpga.com/vhdl-code-for-4-bit-alu/)
