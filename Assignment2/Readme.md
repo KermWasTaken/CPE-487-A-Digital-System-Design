@@ -20,7 +20,7 @@ I chose an Arithmetic Logic Unit (ALU) for Assignment 2 which takes in two 1 byt
 
 ## Testbench Results
 
-![Results](/Assigment2/testbenchResults.png)
+![Results](/testbenchResults.png)
 
 ## Citation
 
