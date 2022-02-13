@@ -18,10 +18,6 @@ Program Outcome 2: (Design)
 
 I chose an Arithmetic Logic Unit (ALU) for Assignment 2 which takes in two 1 byte inputs, an arithmetic selection and a 1 byte output.
 
-## GTKWave Testbench Picture
-
-! [Testbench Results] (/testbenchResults.png)
-
 ## Citation
 
 The source code as well as the testbench can be found [here](https://allaboutfpga.com/vhdl-code-for-4-bit-alu/)
