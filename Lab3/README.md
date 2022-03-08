@@ -4,7 +4,7 @@
 
 The square ball bouncing up and down with no horizontal motion
 
-![vgaball] (vgaball.gif)
+![vgaball](vgaball.gif)
 
 ## Modified VGA Ball
 
