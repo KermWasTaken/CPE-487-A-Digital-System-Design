@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue Mar 29 13:30:15 2022
+# Process ID: 1552
+# Current directory: C:/Users/kermr/hexcalc_1/hexcalc_1.runs/impl_1
+# Command line: vivado.exe -log hexcalc.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source hexcalc.tcl -notrace
+# Log file: C:/Users/kermr/hexcalc_1/hexcalc_1.runs/impl_1/hexcalc.vdi
+# Journal file: C:/Users/kermr/hexcalc_1/hexcalc_1.runs/impl_1\vivado.jou
+# Running On: LAPTOP-V96FT5LO, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17095 MB
+#-----------------------------------------------------------
+source hexcalc.tcl -notrace
