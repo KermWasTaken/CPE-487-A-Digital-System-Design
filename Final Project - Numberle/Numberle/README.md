@@ -14,7 +14,7 @@ With the craze of "le" games going around, I decided I wanted to create a number
 
 ## Future improvements
 
-Over the summer I plan on making this project follow more of a "le" design. By this I mean I want to be able to instead generage a large number and display whether each digit is:
+Over the summer I plan on making this project follow more of a "le" design. By this I mean I want to be able to instead generate a larger number and display whether each digit is:
 
 1. In the correct position (Represented by a top bar)
 
