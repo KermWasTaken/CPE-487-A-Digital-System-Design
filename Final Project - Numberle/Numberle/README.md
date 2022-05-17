@@ -18,7 +18,7 @@ Over the summer I plan on making this project follow more of a "le" design. By t
 
 1. In the correct position (Represented by a top bar)
 
-![correct](resources/correct.png)
+![correct](resources/Correct.png)
 
 2. In the number but in the incorrect position (Represented by a middle bar)
 
